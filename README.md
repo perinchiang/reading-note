@@ -1,8 +1,9 @@
-![demo-screenshot](demo-screenshot.jpg)
-
 # Reading Note — 深度读书笔记助手
 
 > 融合**费曼学习法** + **苏格拉底学习法**的 AI 读书笔记 skill。
+> 你用自己的话说感受，AI 帮你找原文、建角色卡、维护人物关系图。
+
+![demo-screenshot](demo-screenshot.jpg)
 
 ## 核心理念
 
