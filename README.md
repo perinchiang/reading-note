@@ -5,6 +5,22 @@
 
 ![demo-screenshot](demo-screenshot.jpg)
 
+## 安装
+
+**方式一：一句话安装（推荐）**
+
+复制下面这句话发给你的 Agent：
+
+```
+帮我安装 reading-note skill，GitHub 地址：https://github.com/perinchiang/reading-note
+```
+
+**方式二：手动下载**
+
+1. 下载本仓库所有文件
+2. 放入你的 Agent skill 目录
+3. 重启或重载 Agent
+
 ## 快速开始
 
 安装后，把下面任意一句发给你的 Agent 即可：
@@ -43,12 +59,6 @@
 | ❓ 问答记录 | 提问 → AI 解答 → 留苏式思考题 → 全记入笔记 |
 | 🧑‍🤝‍🧑 自动实体发现 | 新人物/新地点 → 自动创建角色卡片 |
 | 🔗 人物关系图 | mermaid 图持续更新，可视全家谱 |
-
-## 安装
-
-1. 下载本目录
-2. 放入你的 Agent skill 目录
-3. 触发：说「我在看《XXX》」「记读书笔记」「我不理解为什么……」
 
 ## 依赖
 
